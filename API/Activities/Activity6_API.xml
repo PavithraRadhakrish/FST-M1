@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
+ <office:meta><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="12" meta:paragraph-count="237" meta:word-count="502" meta:character-count="11347" meta:non-whitespace-character-count="8844"/><meta:generator>LibreOffice/6.1.5.2$Linux_X86_64 LibreOffice_project/10$Build-2</meta:generator></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">0</config:config-item>
+   <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintFaxName" config:type="string"/>
+   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
+   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
+   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TreatSingleColumnBreakAsPageBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RsidRoot" config:type="int">2057831</config:config-item>
+   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
+   <config:config-item config:name="FloattableNomargins" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string"/>
+   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverMargin" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
+   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DisableOffPagePositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">2057831</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
+   <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmptyDbFieldHidesPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="Noto Sans Devanagari1" svg:font-family="&apos;Noto Sans Devanagari&apos;" style:font-family-generic="swiss"/>
+  <style:font-face style:name="Liberation Mono" svg:font-family="&apos;Liberation Mono&apos;" style:font-family-generic="modern" style:font-pitch="fixed"/>
+  <style:font-face style:name="Liberation Serif" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="DejaVu Sans" svg:font-family="&apos;DejaVu Sans&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Noto Sans Devanagari" svg:font-family="&apos;Noto Sans Devanagari&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+ </office:font-face-decls>
+ <office:styles>
+  <style:default-style style:family="graphic">
+   <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:flow-with-text="false"/>
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="DejaVu Sans" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Noto Sans Devanagari" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
+  </style:default-style>
+  <style:default-style style:family="paragraph">
+   <style:paragraph-properties fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="0.4925in" style:writing-mode="page"/>
+   <style:text-properties style:use-window-font-color="true" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:font-name-asian="DejaVu Sans" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Noto Sans Devanagari" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+  </style:default-style>
+  <style:default-style style:family="table">
+   <style:table-properties table:border-model="collapsing"/>
+  </style:default-style>
+  <style:default-style style:family="table-row">
+   <style:table-row-properties fo:keep-together="auto"/>
+  </style:default-style>
+  <style:style style:name="Standard" style:family="paragraph" style:class="text"/>
+  <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.1665in" fo:margin-bottom="0.0835in" loext:contextual-spacing="false" fo:keep-with-next="always"/>
+   <style:text-properties style:font-name="Liberation Sans" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="DejaVu Sans" style:font-family-asian="&apos;DejaVu Sans&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="Noto Sans Devanagari" style:font-family-complex="&apos;Noto Sans Devanagari&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0972in" loext:contextual-spacing="false" fo:line-height="115%"/>
+  </style:style>
+  <style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list">
+   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Noto Sans Devanagari1" style:font-family-complex="&apos;Noto Sans Devanagari&apos;" style:font-family-generic-complex="swiss"/>
+  </style:style>
+  <style:style style:name="Caption" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-top="0.0835in" fo:margin-bottom="0.0835in" loext:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="Noto Sans Devanagari1" style:font-family-complex="&apos;Noto Sans Devanagari&apos;" style:font-family-generic-complex="swiss" style:font-size-complex="12pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Noto Sans Devanagari1" style:font-family-complex="&apos;Noto Sans Devanagari&apos;" style:font-family-generic-complex="swiss"/>
+  </style:style>
+  <style:style style:name="Preformatted_20_Text" style:display-name="Preformatted Text" style:family="paragraph" style:parent-style-name="Standard" style:class="html">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
+   <style:text-properties style:font-name="Liberation Mono" fo:font-family="&apos;Liberation Mono&apos;" style:font-family-generic="modern" style:font-pitch="fixed" fo:font-size="10pt" style:font-name-asian="Liberation Mono" style:font-family-asian="&apos;Liberation Mono&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-size-asian="10pt" style:font-name-complex="Liberation Mono" style:font-family-complex="&apos;Liberation Mono&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed" style:font-size-complex="10pt"/>
+  </style:style>
+  <text:outline-style style:name="Outline">
+   <text:outline-level-style text:level="1" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="2" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="3" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="4" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="5" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="6" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="7" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="8" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="9" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="10" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+  </text:outline-style>
+  <text:notes-configuration text:note-class="footnote" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="document"/>
+  <text:notes-configuration text:note-class="endnote" style:num-format="i" text:start-value="0"/>
+  <text:linenumbering-configuration text:number-lines="false" text:offset="0.1965in" style:num-format="1" text:number-position="left" text:increment="5"/>
+ </office:styles>
+ <office:automatic-styles>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties fo:page-width="8.2681in" fo:page-height="11.6929in" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.7874in" fo:margin-bottom="0.7874in" fo:margin-left="0.7874in" fo:margin-right="0.7874in" style:writing-mode="lr-tb" style:footnote-max-height="0in">
+    <style:footnote-sep style:width="0.0071in" style:distance-before-sep="0.0398in" style:distance-after-sep="0.0398in" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style/>
+   <style:footer-style/>
+  </style:page-layout>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Standard" style:page-layout-name="pm1"/>
+ </office:master-styles>
+ <office:body>
+  <office:text text:use-soft-page-breaks="true">
+   <text:sequence-decls>
+    <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
+   </text:sequence-decls>
+   <text:p text:style-name="Preformatted_20_Text">&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text">&lt;con:soapui-project id=&quot;5c23024a-0556-40fb-8829-8b89cd7a5b64&quot; created=&quot;3.40.0&quot; activeEnvironment=&quot;Default environment&quot; name=&quot;Activity6&quot; updated=&quot;3.40.0 2022-06-02T10:34:15Z&quot; xmlns:con=&quot;http://eviware.com/soapui/config&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="2"/>&lt;con:settings/&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="2"/>&lt;con:interface xsi:type=&quot;con:RestService&quot; id=&quot;51749a1e-0b3d-49e2-b983-b419556f787f&quot; wadlVersion=&quot;http://wadl.dev.java.net/2009/02&quot; name=&quot;http://ipwhois.app&quot; type=&quot;rest&quot; xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;con:settings/&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;con:definitionCache type=&quot;TEXT&quot; rootPart=&quot;&quot;/&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;con:endpoints&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;con:endpoint&gt;http://ipwhois.app&lt;/con:endpoint&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;/con:endpoints&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;con:resource name=&quot;IP&quot; path=&quot;/json/{IP}&quot; id=&quot;f7e8aa36-df69-4fcb-94ef-bee94e42f41e&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;con:settings/&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;con:parameters/&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;con:method name=&quot;IP&quot; id=&quot;5f4dcb7b-188f-4f2b-b076-47acec1f5086&quot; method=&quot;GET&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;con:settings/&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;con:parameters&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;con:parameter required=&quot;true&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;con:name&gt;IP&lt;/con:name&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;con:value&gt;IP&lt;/con:value&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;con:style&gt;TEMPLATE&lt;/con:style&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;con:default&gt;IP&lt;/con:default&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/><text:s text:c="12"/>&lt;con:path xsi:nil=&quot;true&quot;/&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;con:description xsi:nil=&quot;true&quot;/&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;/con:parameter&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;/con:parameters&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;con:representation type=&quot;RESPONSE&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;con:mediaType&gt;application/json; charset=utf-8&lt;/con:mediaType&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;con:status&gt;200&lt;/con:status&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;con:params/&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;con:element xmlns:ns=&quot;http://ipwhois.app/json/199.87.16.148&quot;&gt;ns:Response&lt;/con:element&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;/con:representation&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;con:request name=&quot;Request 1&quot; id=&quot;4def73a1-fa20-4c2d-862e-2e84eac1a505&quot; mediaType=&quot;application/json&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;con:settings/&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;con:endpoint&gt;http://ipwhois.app&lt;/con:endpoint&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;con:parameters&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;con:entry key=&quot;IP&quot; value=&quot;IP&quot;/&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;/con:parameters&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;con:parameterOrder&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;con:entry&gt;IP&lt;/con:entry&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;/con:parameterOrder&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;/con:request&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;/con:method&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/><text:s text:c="4"/>&lt;/con:resource&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="2"/>&lt;/con:interface&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="2"/>&lt;con:testSuite id=&quot;3853e532-ea8e-4642-a21d-3e4ebf787ec4&quot; name=&quot;http://ipwhois.app Test Suite&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;con:settings/&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;con:runType&gt;SEQUENTIAL&lt;/con:runType&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;con:testCase id=&quot;5def0c63-dd1a-4ddf-9a34-c850916aadb3&quot; discardOkResults=&quot;false&quot; failOnError=&quot;true&quot; failTestCaseOnErrors=&quot;true&quot; keepSession=&quot;false&quot; name=&quot;http://ipwhois.app Test Case 1&quot; searchProperties=&quot;true&quot; timeout=&quot;0&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;con:settings/&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;con:testStep type=&quot;datasource&quot; name=&quot;Data Source&quot; id=&quot;4e70966d-7f39-457f-a253-bcbe1633dd42&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;con:settings/&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;con:config xsi:type=&quot;con:DataSourceStep&quot; xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;con:dataSource type=&quot;Data Generator&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;con:configuration&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="14"/>&lt;generatedDataCount&gt;3&lt;/generatedDataCount&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="14"/>&lt;generatorsTotalNumber&gt;1&lt;/generatorsTotalNumber&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="14"/>&lt;lastSelectedProperty&gt;-1&lt;/lastSelectedProperty&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="14"/>&lt;GeneratorType0&gt;COMP&lt;/GeneratorType0&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="14"/>&lt;PropertyName0&gt;IP&lt;/PropertyName0&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="14"/>&lt;repetitionCountIP&gt;0&lt;/repetitionCountIP&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="14"/>&lt;repeatValuesIP&gt;false&lt;/repeatValuesIP&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="14"/>&lt;ComputerAddressTypeIP&gt;IPv4&lt;/ComputerAddressTypeIP&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="14"/>&lt;escapeSpaceSequence/&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/><text:s text:c="12"/>&lt;/con:configuration&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;/con:dataSource&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;con:shared&gt;false&lt;/con:shared&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;con:restartShared&gt;false&lt;/con:restartShared&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;con:property&gt;IP&lt;/con:property&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;con:restartOnRun&gt;true&lt;/con:restartOnRun&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;/con:config&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;/con:testStep&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;con:testStep type=&quot;restrequest&quot; name=&quot;Request 1&quot; id=&quot;c7219dd0-daaf-4a7b-9f5e-e22b4bb39bae&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;con:settings/&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;con:config service=&quot;http://ipwhois.app&quot; resourcePath=&quot;/json/{IP}&quot; methodName=&quot;IP&quot; xsi:type=&quot;con:RestRequestStep&quot; xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;con:restRequest name=&quot;Request 1&quot; id=&quot;4def73a1-fa20-4c2d-862e-2e84eac1a505&quot; mediaType=&quot;application/json&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;con:settings&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="14"/>&lt;con:setting id=&quot;com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers&quot;&gt;&amp;lt;xml-fragment/&gt;&lt;/con:setting&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;/con:settings&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;con:endpoint&gt;http://ipwhois.app&lt;/con:endpoint&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;con:request/&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;con:originalUri&gt;http://ipwhois.app/json/199.87.16.148&lt;/con:originalUri&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;con:assertion type=&quot;Valid HTTP Status Codes&quot; id=&quot;ade47d3a-80f7-4cc3-8948-5c2dc01e8403&quot; name=&quot;Valid HTTP Status Codes&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="14"/>&lt;con:settings/&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="14"/>&lt;con:configuration&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/><text:s text:c="16"/>&lt;codes&gt;200&lt;/codes&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="14"/>&lt;/con:configuration&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;/con:assertion&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;con:assertion type=&quot;JsonPath Match&quot; id=&quot;92b8accb-785a-411e-9e93-aaed53287e62&quot; name=&quot;JSONPath Match&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="14"/>&lt;con:configuration&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="16"/>&lt;path&gt;$[&apos;country&apos;]&lt;/path&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="16"/>&lt;content&gt;&quot;China&quot;&lt;/content&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="16"/>&lt;allowWildcards&gt;false&lt;/allowWildcards&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="16"/>&lt;ignoreNamspaceDifferences&gt;false&lt;/ignoreNamspaceDifferences&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="16"/>&lt;ignoreComments&gt;false&lt;/ignoreComments&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="14"/>&lt;/con:configuration&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;/con:assertion&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;con:credentials&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="14"/>&lt;con:selectedAuthProfile&gt;No Authorization&lt;/con:selectedAuthProfile&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="14"/>&lt;con:authType&gt;No Authorization&lt;/con:authType&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;/con:credentials&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;con:jmsConfig JMSDeliveryMode=&quot;PERSISTENT&quot;/&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;con:parameters&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="14"/>&lt;con:entry key=&quot;IP&quot; value=&quot;${Data Source#IP}&quot;/&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;/con:parameters&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;con:parameterOrder&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/><text:s text:c="14"/>&lt;con:entry&gt;IP&lt;/con:entry&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;/con:parameterOrder&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;/con:restRequest&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;/con:config&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;/con:testStep&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;con:testStep type=&quot;transfer&quot; name=&quot;PropertyTransfer 1&quot; id=&quot;d13b5d22-70c2-498c-8b06-7aa8ff949342&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;con:settings/&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;con:config xsi:type=&quot;con:PropertyTransfersStep&quot; xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;con:transfers setNullOnMissingSource=&quot;true&quot; transferTextContent=&quot;true&quot; failOnError=&quot;true&quot; transferChildNodes=&quot;false&quot; ignoreEmpty=&quot;false&quot; transferToAll=&quot;false&quot; entitize=&quot;false&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;con:name&gt;city&lt;/con:name&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;con:sourceType&gt;Response&lt;/con:sourceType&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;con:sourceStep&gt;Request 1&lt;/con:sourceStep&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;con:sourcePath&gt;$[&apos;city&apos;]&lt;/con:sourcePath&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;con:targetType&gt;cityName&lt;/con:targetType&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;con:targetStep&gt;DataSink&lt;/con:targetStep&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;con:targetPath/&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;con:type&gt;JSONPATH&lt;/con:type&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;con:upgraded&gt;true&lt;/con:upgraded&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;/con:transfers&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;con:transfers setNullOnMissingSource=&quot;true&quot; transferTextContent=&quot;true&quot; failOnError=&quot;true&quot; transferToAll=&quot;false&quot; entitize=&quot;false&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;con:name&gt;latitude&lt;/con:name&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/><text:s text:c="12"/>&lt;con:sourceType&gt;Response&lt;/con:sourceType&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;con:sourceStep&gt;Request 1&lt;/con:sourceStep&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;con:sourcePath&gt;$[&apos;latitude&apos;]&lt;/con:sourcePath&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;con:targetType&gt;latitude&lt;/con:targetType&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;con:targetStep&gt;DataSink&lt;/con:targetStep&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;con:targetPath/&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;con:type&gt;JSONPATH&lt;/con:type&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;con:upgraded&gt;true&lt;/con:upgraded&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;/con:transfers&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;con:transfers setNullOnMissingSource=&quot;true&quot; transferTextContent=&quot;true&quot; failOnError=&quot;true&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;con:name&gt;longitude&lt;/con:name&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;con:sourceType&gt;Response&lt;/con:sourceType&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;con:sourceStep&gt;Request 1&lt;/con:sourceStep&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;con:sourcePath&gt;$[&apos;longitude&apos;]&lt;/con:sourcePath&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;con:targetType&gt;longitude&lt;/con:targetType&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;con:targetStep&gt;DataSink&lt;/con:targetStep&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;con:targetPath/&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;con:type&gt;JSONPATH&lt;/con:type&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;con:upgraded&gt;true&lt;/con:upgraded&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;/con:transfers&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;/con:config&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/><text:s text:c="6"/>&lt;/con:testStep&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;con:testStep type=&quot;datasink&quot; name=&quot;DataSink&quot; id=&quot;443ed4f8-1244-47a5-b631-3061817cb25d&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;con:settings/&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;con:config xsi:type=&quot;con:DataSinkStep&quot; xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;con:dataSink type=&quot;JDBC&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;con:configuration&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="14"/>&lt;driver&gt;com.mysql.jdbc.Driver&lt;/driver&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="14"/>&lt;connstr&gt;jdbc:mysql://remotemysql.com:3306/CGpfjlbstY?user=CGpfjlbstY&amp;amp;password=PASS_VALUE&lt;/connstr&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="14"/>&lt;pass&gt;Sav3dVDTJ4&lt;/pass&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="14"/>&lt;Connection&gt;&amp;lt;None&gt;&lt;/Connection&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="14"/>&lt;query&gt;insert into coordinates(cityName,latitude,longitude) values (?,?,?);&lt;/query&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="14"/>&lt;stored-procedure&gt;false&lt;/stored-procedure&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;/con:configuration&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;/con:dataSink&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;con:properties&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;con:property&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="14"/>&lt;con:name&gt;cityName&lt;/con:name&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="14"/>&lt;con:value&gt;Beijing&lt;/con:value&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;/con:property&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;con:property&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="14"/>&lt;con:name&gt;latitude&lt;/con:name&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/><text:s text:c="14"/>&lt;con:value&gt;39.904211&lt;/con:value&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;/con:property&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;con:property&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="14"/>&lt;con:name&gt;longitude&lt;/con:name&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="14"/>&lt;con:value&gt;116.407395&lt;/con:value&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;/con:property&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;/con:properties&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;/con:config&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;/con:testStep&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;con:testStep type=&quot;datasourceloop&quot; name=&quot;Data Source Loop&quot; id=&quot;8f0f6ca0-fa8e-4419-9b54-1739642cba5a&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;con:settings/&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;con:config&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;dataSourceStep&gt;Data Source&lt;/dataSourceStep&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;targetStep&gt;Request 1&lt;/targetStep&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;discardResults&gt;true&lt;/discardResults&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;/con:config&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;/con:testStep&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;con:properties/&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;con:reportParameters/&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;/con:testCase&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;con:properties/&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/><text:s text:c="4"/>&lt;con:reportParameters/&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="2"/>&lt;/con:testSuite&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="2"/>&lt;con:requirements/&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="2"/>&lt;con:properties/&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="2"/>&lt;con:wssContainer/&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="2"/>&lt;con:databaseConnectionContainer/&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="2"/>&lt;con:jmsConnectionContainer/&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="2"/>&lt;con:oAuth2ProfileContainer/&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="2"/>&lt;con:oAuth1ProfileContainer/&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="2"/>&lt;con:reporting&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;con:reportTemplates/&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;con:xmlTemplates/&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;con:xmlTemplates/&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;con:parameters/&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;con:parameters/&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="2"/>&lt;/con:reporting&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="2"/>&lt;con:reporting/&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="2"/>&lt;con:eventHandlers type=&quot;RequestFilter.filterRequest&quot; name=&quot;RequestFilter.filterRequest&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;con:script&gt;// Sample event script to add custom HTTP header to all outgoing REST, SOAP and HTTP(S) calls&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text">// This code is often used for adding custom authentication to ReadyAPI functional tests&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text">&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/>// If hardcoding the token, uncomment and change line 5&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text">// token = &apos;4567&apos;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text">&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text">// If your token is parameterized in Project level custom property, uncomment line 8&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text">// token = request.parent.testCase.testSuite.project.getProperty(&apos;auth_token&apos;).getValue()&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text">&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text">// To modify all outgoing calls, remove comments from lines 11 to 16&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text">// headers = request.requestHeaders&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text">// if (headers.containsKey(&apos;auth_token2&apos;) == false) {&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text">// <text:s text:c="2"/>headers.put(&apos;auth_token2&apos;, token)&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text">// <text:s text:c="2"/>request.requestHeaders = headers&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text">// }&lt;/con:script&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="2"/>&lt;/con:eventHandlers&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="2"/>&lt;con:eventHandlers type=&quot;TestRunListener.afterStep&quot; name=&quot;TestRunListener.afterStep&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;con:script&gt;// Save all test step results into files&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text">// Change the directory path in line 5 to a location where you want to store details&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text">// then uncomment lines 5 to 10&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text">&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text">// filePath = &apos;C:\\tempOutputDirectory\\&apos;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text">// fos = new java.io.FileOutputStream(filePath + testStepResult.testStep.label + &apos;.txt&apos;, true)&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text">// pw = new java.io.PrintWriter(fos)&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/>// testStepResult.writeTo(pw)&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text">// pw.close()&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text">// fos.close()&lt;/con:script&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="2"/>&lt;/con:eventHandlers&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="2"/>&lt;con:authRepository/&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="2"/>&lt;con:tags/&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text">&lt;/con:soapui-project&gt;</text:p>
+  </office:text>
+ </office:body>
+</office:document>
